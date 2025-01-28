@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Easybank-landing-page-solution](https://github.com/MIGHTYJNR/Easybank-landing-page-solution)
+- Live Site URL: [https://odus-easybank.netlify.app/](https://odus-easybank.netlify.app/)
 
 ## Author
 
